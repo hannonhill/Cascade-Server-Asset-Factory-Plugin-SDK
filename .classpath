@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="assetfactory-plugin-7.0.jar"/>
-	<classpathentry kind="lib" path="cascade-api-7.0.jar"/>
+	<classpathentry kind="lib" path="assetfactory-plugin-7.2.jar"/>
+	<classpathentry kind="lib" path="cascade-api-7.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
